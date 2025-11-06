@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+
+<html lang="hu">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>PERSPEKTÍVA – ÖnIsmereti Program</title>
+
+<style>
+
+    body {
+
+        font-family: "Arial", sans-serif;
+
+        margin:0;
+
+        padding:0;
+
+        background:#f5f0e6; /* warm beige */
+
+        color:#333;
+
+        line-height:1.6;
+
+    }
+
+    header {
+
+        background:#d9cbbf;
+
+        color:#333;
+
+        text-align:center;
+
+        padding:2rem 1rem;
+
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+
+    }
+
+    main {
+
+        max-width:800px;
+
+        margin:2rem auto;
+
+        padding:0 1rem;
+
+    }
+
+    section {
+
+        background:white;
+
+        padding:1.5rem 1rem;
+
+        margin-bottom:2rem;
+
+        border-radius:8px;
+
+        box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+
+    }
+
+    h1, h2 {
+
+        color:#6b4f3f;
+
+        margin-bottom:0.5rem;
+
+    }
+
+    p, ul {
+
+        margin:0.5rem 0;
+
+    }
+
+    ul { padding-left:1.2rem; }
+
+    footer {
+
+        background:#d9cbbf;
+
+        text-align:center;
+
+        padding:1rem;
+
+        font-size:0.9rem;
+
+        box-shadow: 0 -2px 4px rgba(0,0,0,0.05);
+
+    }
+
+    a.button {
+
+        display:inline-block;
+
+        background:#6b4f3f;
+
+        color:white;
+
+        padding:0.75rem 1.5rem;
+
+        text-decoration:none;
+
+        border-radius:5px;
+
+        margin-top:0.5rem;
+
+    }
+
+    a.button:hover {
+
+        background:#5a3e30;
+
+    }
+
+    @media (max-width:600px){
+
+        section { padding:1rem; }
+
+        header { padding:1.5rem 1rem; }
+
+    }
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>PERSPEKTÍVA – ÖnIsmereti Program</h1>
+
+    <p>A változás a megértéssel kezdődik</p>
+
+</header>
+
+<main>
+
+<section id="intro">
+
+    <h2>Rövid bemutatkozás</h2>
+
+    <p>Ez a program lehetőséget ad az önismeret elmélyítésére, az érzelmi tudatosság fejlesztésére és a lelki rugalmasság erősítésére, egyéni és csoportos keretek között.</p>
+
+</section>
+
+<section id="about">
+
+    <h2>Rólam</h2>
+
+    <p>Kettel-Fülöp Flóra vagyok, 2024-ben végeztem a Pécsi Tudományegyetem pszichológia szakán, viselkedéselemző képzésen, és jelenleg Győrben folytatom egészségpszichológia MSc tanulmányaimat. Több mint tíz éve tanárként dolgozom, és szenvedélyem az önismeret és az érzelmi tudatosság fejlesztése.</p>
+
+</section>
+
+<section id="services">
+
+    <h2>Szolgáltatások</h2>
+
+    <ul>
+
+        <li><strong>Egyéni foglalkozások:</strong> Személyre szabott konzultációk az önismeret és lelki rugalmasság fejlesztésére. Egy alkalom 50 perc, az első alkalom 70 perc.</li>
+
+        <li><strong>Csoportos foglalkozások:</strong> Interaktív tréningek, ahol a résztvevők együtt fedezhetik fel gondolkodási mintáikat és erősíthetik önreflexiójukat. Ár: 3 000 Ft / fő / alkalom.</li>
+
+    </ul>
+
+</section>
+
+<section id="place">
+
+    <h2>Helyszín</h2>
+
+    <p>8000, Székesfehérvár, Várkörút 44.</p>
+
+</section>
+
+<section id="contact">
+
+    <h2>Kapcsolat</h2>
+
+    <p>Telefon: +36 70 312 7919</p>
+
+    <p>Email: <a href="mailto:flora.fulop@gmail.com">flora.fulop@gmail.com</a></p>
+
+    <a href="mailto:flora.fulop@gmail.com" class="button">Üzenet küldése</a>
+
+</section>
+
+</main>
+
+<footer>
+
+    &copy; 2025 Kettel-Fülöp Flóra. Minden jog fenntartva.
+
+</footer>
+
+</body>
+
+</html>
